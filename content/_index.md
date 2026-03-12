@@ -3,36 +3,37 @@ title = "Lukas Holm"
 +++
 
 # LUKAS HOLM
-**Tønder | (+45) 71 35 60 02 | lukasholm@hotmail.com | github.com/LukasH0lm**
+
+**Esbjerg | (+45) 71 35 60 02 | <lukasholm@hotmail.com> | github.com/LukasH0lm**
 
 Computer Science graduate and current Software Development student with strong technical capabilities and a deep passion for databases, data structures, and design patterns.
 
 ### EXPERIENCE
 
 **Software Engineering Intern | VK DATA**
-*Aug 2024 – Oct 2024*
+_Aug 2024 – Oct 2024_
 
 - Developed full-stack Odoo modules, handling both front-end and back-end implementations.
 - Main Project: Engineered a module to process point-of-sale terminal payments directly, eliminating the need for external IoT hardware.
 
 **Part-Time Instructor | EUC Syd**
-*Feb 2024 – Sep 2024*
+_Feb 2024 – Sep 2024_
 
 - Taught vocational plumbing students the fundamentals of programming and how to analyze digital artifacts.
 
 ### EDUCATION
 
 **Bachelor in Software Development | SEA**
-*Expected Graduation: Spring 2027*
+_Expected Graduation: Spring 2027_
 
 **Associate's Degree in Computer Science | Erhvervsakademi Sydvest**
-*Jan 2025*
+_Jan 2025_
 
 - Electives: Game Development, DevOps, and Cybersecurity
 - GPA: 9.9
 
 **Upper Secondary Education | Tønder Gymnasium**
-*Oct 2022*
+_Oct 2022_
 
 - Social Sciences & English Program
 - Mathematics at Advanced (A) Level
@@ -55,4 +56,3 @@ Computer Science graduate and current Software Development student with strong t
 
 - Volunteer Lighting & Photography Technician, Kanten (Huset Esbjerg)
 - Bartender, E1 Education Organization
-
